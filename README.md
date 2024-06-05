@@ -75,13 +75,13 @@ Por último, mencionamos qué si bien la mayoría de los accidentes suceden en a
 
 Todo esto nos lleva a plantearnos objetivos y generar soluciones para disminuir estos valores. Como primer objetivo nos planteamos disminuir en un 10% la tasa de homicidios en siniestro viales en el último semestre con respecto al anterior. Podemos ver que este objetivo se cumplió ya que se disminuyó un 15% con respecto al último semestre. De todos modos, planteamos objetivos para el siguiente semestre entre los cuales podemos considerar:
 
-    •	El despliegue de agentes de tránsito en las calles con más afluencia durante el periodo de 5 a 10 am que es donde hay mayor concentración de hechos
+* El despliegue de agentes de tránsito en las calles con más afluencia durante el periodo de 5 a 10 am que es donde hay mayor concentración de hechos
 
-    •	Intensificar los operativos y controles durante el último trimestre del año
+* Intensificar los operativos y controles durante el último trimestre del año
 
-    •	Mayor exigencia en la expedición de licencias y controles rigurosos en Zona Sur
+* Mayor exigencia en la expedición de licencias y controles rigurosos en Zona Sur
 
-    •	Mas controles en las principales arterias de la comuna 1 (Av. 9 de Julio y Leandro Alem)
+* Mas controles en las principales arterias de la comuna 1 (Av. 9 de Julio y Leandro Alem)
 
 
 ![](/imgs/kpi1.png)
@@ -89,9 +89,9 @@ Todo esto nos lleva a plantearnos objetivos y generar soluciones para disminuir 
 
 El segundo objetivo que nos planteamos es el reducir la cantidad de muertes de motociclistas en siniestros viales en un 7% con respecto al año anterior. Acá notamos que el objetivo quedó muy por encima, ya que en el último año la cantidad de accidentes subió en un 83%. Para lograr reducir esto para el siguiente año se propone:
 
-    •	Lanzamiento de una campaña de concientización sobre el manejo responsable y el uso de casco y chaleco refractario, dirigido sobre todo a la población entre 20 y 35 años.
+* Lanzamiento de una campaña de concientización sobre el manejo responsable y el uso de casco y chaleco refractario, dirigido sobre todo a la población entre 20 y 35 años.
 
-    •	Aumentar los controles en las comunas donde se registren mayor cantidad de ventas de motocicletas
+* Aumentar los controles en las comunas donde se registren mayor cantidad de ventas de motocicletas
 
 
 ![](/imgs/kpi2.png)
