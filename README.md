@@ -5,6 +5,10 @@
 ![](/imgs/img1.jpg)
 ![](/imgs/img2.jpg)
 
+## Introducción
+
+El fin de este proyecto es generar información valiosa y recomendaciones para disminuir las tasas de muertes en accidentes viales en CABA. Para el desarrollo del mismo se trabajo con los datos provistos por la OMSV (Observatorio de Movilidad y Seguridad Vial) con información recolectada entre los años 2016 y 2021. Primero se cargó los datos a una base de datos en MySQL, se desarrollo un ligero ETL y se llevó a cabo un EDA en python para poder desarrollar la siguiente exposición de datos.
+
 ## **Presentación**
 
 En el presente proyecto se nos encomienda, como analista de datos, investigar sobre los homicidios provocados por siniestro viales en la Ciudad Autónoma de Buenos Aires (CABA). Vamos a explorar las distintas causas de los accidentes de tránsito y generar eventuales soluciones para reducir las tasas de mortalidad producidas por este tipo de accidentes. En Argentina hay más probabilidades de morir en un accidente de tránsito que en un delito. El Gobierno de CABA planteó ciertos objetivos para lograr esta meta, lo cuales los mencionaremos más adelante. Para comenzar, nos preguntamos
@@ -14,7 +18,6 @@ En el presente proyecto se nos encomienda, como analista de datos, investigar so
 Según los datos dispuesto por el mismo gobierno, podemos decir que entre 2016 y 2021 se encuentran registrados un total de 696 accidentes que culminaron con al menos una muerte y un total de 717 víctimas de las mismas. De ese total, podemos constatar que alrededor del 76% de las víctimas fueron hombres y el 23% mujeres (el porcentaje restante no contiene registros). Esto se puede deber a que generalmente son hombres los contratados para el manejo de transportes públicos y de cargas. También, la distribución de las edades de las mismas va desde los 4 años hasta los 95, pero encontramos la mayor concentración de valores entre los 20 y los 30 años (los 0 hacen referencia a los datos sin registro). Esto se puede asociar a una imprudencia por parte de los jóvenes a la hora de manejar.
 
 
-![](/imgs/grafico1.png)
 ![](/imgs/grafico2.png)
 ![](/imgs/grafico9.png)
 
